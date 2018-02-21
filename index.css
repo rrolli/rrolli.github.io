@@ -6,14 +6,14 @@ body {
 	font-family: Georgia, Times New Roman, serif;
 	text-align: left;
 	background-image: url("BG.jpg");
-	margin: 0px;
+	margin: 20px;
 }
 #header, #footer {
 	width: 100%;
 	padding: 10px;
 }
 
-#header, #footer, #main, h1, h2, div {
+#header, #footer, #main, h1, h2, div, p {
 	background-color: rgba(212,255,146,0.8);
 	overflow: hidden;
 }
