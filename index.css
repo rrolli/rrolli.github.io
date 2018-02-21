@@ -4,7 +4,7 @@
 */
 body {
 	font-family: Georgia, Times New Roman, serif;
-	text-align: center;
+	text-align: left;
 	background-image: url("BG.jpg");
 	margin: 0px;
 }
@@ -37,7 +37,7 @@ h1, h2 {
 	margin-right: auto;
 	margin-top: 20px;
 	margin-bottom: 20px;
-	text-align: center;
+	text-align: left;
 	padding: 20px;
 }
 
@@ -45,7 +45,7 @@ form {
 	display: inline;
 }
 
-#todolist {
+#list {
 	float: left;
 }
 
@@ -54,7 +54,7 @@ form {
 	float: right;
 }
 
-#todolist, #photos {
+#list, #photos {
 	text-align: center;
 }
 
