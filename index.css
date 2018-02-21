@@ -26,6 +26,7 @@ div {
 	background-color: #243f15;
 }
 #banner {
+	background-color: transparent;
 	background-image: url("website banner.jpeg");
 	background-repeat: no-repeat;
 	height: 375px;
