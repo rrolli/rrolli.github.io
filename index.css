@@ -10,7 +10,7 @@ Description: An css file for the calendar webpage.
 body {
 	font-family: Georgia, Times New Roman, serif;
 	text-align: left;
-	background-image: url("BG.jpg");
+	background-image: url("rrolli/BG.jpg");
 	margin: 0px;
 }
 #header, #footer {
