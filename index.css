@@ -5,10 +5,12 @@
 body {
 	background-image: url("BG.jpg");
 	font-family: Georgia, Times New Roman, serif;
-	margin: 0px;	
+	margin-left: auto;
+	margin-right: auto;
 	padding: 20px;
 	padding-top: 0px
 	text-align: left;
+	max-width: 1250px;
 }
 h1, h2, div {
 	background-color: rgba(212,255,146,0.9);
@@ -22,7 +24,7 @@ div {
 	width: 90%;
 	padding: 10px;
 }
-#headerAndMenu { 
+#header, #footer { 
 	background-color: #243f15;
 }
 #banner {
