@@ -18,7 +18,7 @@ body {
 	padding: 10px;
 }
 
-#header, #footer, #main {
+#header, #footer, #main, h1, h2, div {
 	background-color: rgba(212,255,146,0.8);
 	overflow: hidden;
 }
