@@ -22,6 +22,9 @@ div {
 	width: 90%;
 	padding: 10px;
 }
+#bannerContainer { 
+	background-color: #243f15;
+}
 #banner {
 	background-image: url("website banner.jpeg");
 	background-repeat: no-repeat;
