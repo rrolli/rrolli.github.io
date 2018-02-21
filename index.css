@@ -3,19 +3,19 @@
 	Description: An css file for the the index webpage.
 */
 body {
-	font-family: Georgia, Times New Roman, serif;
-	text-align: left;
 	background-image: url("BG.jpg");
-	margin: 20px;
-}
-#header, #footer {
-	width: 100%;
-	padding: 10px;
+	font-family: Georgia, Times New Roman, serif;
+	margin: 0px;	
+	padding: 20px;
+	text-align: left;
 }
 
 #header, #footer, #main, h1, h2, div {
 	background-color: rgba(212,255,146,0.8);
+	border-radius: 10px;
 	overflow: hidden;
+	padding: 10px;
+	width: 80%;
 }
 
 #footer {
