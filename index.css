@@ -5,6 +5,8 @@
 body {
 	background-color: white;
 	font-family: Georgia, Times New Roman, serif;
+}
+#main {
 	margin-left: auto;
 	margin-right: auto;
 	padding: 20px;
@@ -20,7 +22,7 @@ h1, h2, div {
 	overflow: hidden;
 	padding: 30px;
 }
-.bannerBG {
+#bannerBG {
 	background-image: url("images/BG.jpg");
 	border-radius: 0px;
 	width:100%
