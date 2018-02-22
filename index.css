@@ -3,7 +3,7 @@
 	Description: An css file for the the index webpage.
 */
 body {
-	background-image: url("images/BG.jpg");
+	background-color: white;
 	font-family: Georgia, Times New Roman, serif;
 	margin-left: auto;
 	margin-right: auto;
@@ -20,8 +20,8 @@ h1, h2, div {
 	overflow: hidden;
 	padding: 30px;
 }
-.whiteBG {
-	background-color: white;
+.bannerBG {
+	background-image: url("images/BG.jpg");
 	border-radius: 0px;
 	width:100%
 }
