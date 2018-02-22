@@ -20,6 +20,11 @@ h1, h2, div {
 	overflow: hidden;
 	padding: 30px;
 }
+.whiteBG {
+	background-color: white;
+	border-radius: 0px;
+	width:100%
+}
 .project {
 	background-color: transparent;
 }
