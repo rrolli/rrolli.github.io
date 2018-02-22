@@ -20,9 +20,17 @@ h1, h2, div {
 	overflow: hidden;
 	padding: 30px;
 }
+.project {
+	background-color: transparent;
+}
 div {
 	width: 90%;
 	padding: 10px;
+}
+img {
+    	display: block;
+    	margin-left: auto;
+	margin-right: auto;
 }
 #header, #footer { 
 	background-color: #243f15;
