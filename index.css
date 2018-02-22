@@ -5,6 +5,7 @@
 body {
 	background-color: white;
 	font-family: Georgia, Times New Roman, serif;
+	margin: 0px;
 }
 .main {
 	margin-left: auto;
@@ -25,6 +26,7 @@ h1, h2, div {
 #bannerBG {
 	background-image: url("images/BG.jpg");
 	border-radius: 0px;
+	padding: 0px;
 	width:100%
 }
 .project {
@@ -41,6 +43,7 @@ img {
 }
 #header, #footer { 
 	background-color: #243f15;
+	padding: 0px;
 }
 #banner {
 	background-color: transparent;
